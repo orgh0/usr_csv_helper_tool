@@ -12,13 +12,13 @@ with open('LICENSE') as f:
     license = f.read()
 
 setup(
-    name='sample',
+    name='USR CSV helper tool',
     version='0.1.0',
-    description='Sample package for Python-Guide.org',
+    description='A helper tool for creating USR CSV format for Indian languages',
     long_description=readme,
-    author='Kenneth Reitz',
-    author_email='me@kennethreitz.com',
-    url='https://github.com/kennethreitz/samplemod',
+    author='Arghya Bhattacharya',
+    author_email='arghya.b@research.iiit.ac.in',
+    url='',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
