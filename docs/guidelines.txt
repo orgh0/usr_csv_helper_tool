@@ -1,0 +1,31 @@
+Fourth Row (Ontology Row)
+Fifth Row (Morph)
+Sixth (Intra-Chunk Rel)
+Seventh (Karaka Rel)
+Eighth (Beyond Karaka Rel)
+Ninth (Sentence Type)
+
+4th row
+1. Take the word from each group (from the first row) which is either followed by 0 or hI/BI or vibhakti.
+2. Ask the author if it is mass/def
+3. If yes, write mass/def in 4 row or leave it empty
+
+5th row
+1. Take the word as specified in (1) of 4th row,
+2. Find out the corresponding word from the original sentence
+3. We will discuss the rest over the phone. Since we are using very simple info of morph, I am planning to create a database of words for it. Lets discuss.
+
+6th row
+1. Depending on the symbol you have used in the first row, we will decide the realation.
+2. Right now, there are two relations: viSeRaNa, saMKyA viSeRaNa (see the guideline)
+
+7th row
+1. Run the state of the art parser. Ask Kishori.
+2. Only take interchunk relations and add in this row
+
+8th row
+1. See guideline
+
+9th row
+1. Sentence with full stop - Assertive
+2. Sentence with question - Question
